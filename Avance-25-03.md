@@ -1,7 +1,7 @@
 
-# 📚 Revisión de Artículos por Taxonomía de Gobernanza de Datos (2020–2025)
+# Revisión de Artículos por Taxonomía de Gobernanza de Datos (2020–2025)
 
-## 🧠 1. Aportes Estratégicos
+## 1. Aportes Estratégicos
 
 - [ ] Janssen et al. (2020)  
   https://doi.org/10.1016/j.giq.2020.101493  
@@ -33,7 +33,7 @@
 
 ---
 
-## ⚙️ 2. Aportes Operacionales
+##  2. Aportes Operacionales
 
 - [ ] Yao et al. (2024)  
   https://doi.org/10.1145/3695080.3695140  
@@ -65,7 +65,7 @@
 
 ---
 
-## 🧪 3. Aportes Técnicos
+## 3. Aportes Técnicos
 
 - [ ] Shahsavari et al. (2024)  
   https://arxiv.org/abs/2404.10092  
@@ -97,7 +97,7 @@
 
 ---
 
-## 🔐 4. Aportes de Cumplimiento y Regulación
+## 4. Aportes de Cumplimiento y Regulación
 
 - [ ] Truong et al. (2021)  
   https://arxiv.org/abs/2011.05411  
@@ -129,7 +129,7 @@
 
 ---
 
-## 📈 5. Aportes Analíticos e Innovación
+## 5. Aportes Analíticos e Innovación
 
 - [ ] Timko et al. (2023)  
   https://www.researchgate.net/publication/370142001  
@@ -161,7 +161,7 @@
 
 ---
 
-## 🧑‍🤝‍🧑 6. Aportes de Cultura y Adopción
+## 6. Aportes de Cultura y Adopción
 
 - [ ] Kulkarni et al. (2024)  
   https://researchmgt.monash.edu/ws/portalfiles/portal/625998335  
@@ -193,7 +193,7 @@
 
 ---
 
-# ✅ Progreso
+# Progreso
 
 Total artículos: 42  
 Revisados: ___  
