@@ -2,61 +2,69 @@
 
 ## Enfoque general
 
-El desarrollo del paper debe iniciar por la construcción de la taxonomía (Sección 4), y no por la introducción u otras secciones tradicionales. Esto responde a la naturaleza del artículo, cuyo aporte principal radica en la clasificación estructurada del conocimiento.
+Debo recordar que este paper no es una revisión tradicional, sino una taxonomía. Por tanto, el aporte principal no está en describir literatura, sino en organizarla de forma estructurada.
 
-El valor del documento no está en la revisión en sí misma, sino en la organización conceptual de los aportes asociados a la gobernanza de datos y su relación con la generación de valor organizacional.
+La clave es que el documento funcione como una herramienta de consulta. Es decir, alguien debe poder llegar al paper buscando un tipo de aporte específico y encontrarlo fácilmente dentro de la taxonomía.
 
-El paper de referencia sigue este mismo principio: primero define la taxonomía y posteriormente organiza el resto del documento alrededor de ella.
+Esto implica que la estructura es más importante que la narrativa inicial.
 
-## Justificación del enfoque
+## Punto crítico
 
-El artículo corresponde a una taxonomía, por lo que:
+No debo empezar por la introducción.
 
-- El núcleo del aporte es la clasificación
-- La coherencia del documento depende de la estructura de la taxonomía
-- Las demás secciones (introducción, discusión, conclusiones) derivan de esta construcción
+Esto es un error común. Si empiezo por la introducción sin tener clara la taxonomía, el paper se vuelve débil y genérico.
 
-Por tanto, la calidad de la Sección 4 determina el nivel del paper.
+Primero debo construir el núcleo: la clasificación.
 
-## Orden de desarrollo del documento
+## Orden correcto de trabajo
 
-### Paso 1 — Desarrollo de la Sección 4.1 (Aportes estratégicos)
+Debo seguir este orden sin desviarme:
 
-Este es el punto de partida obligatorio.
+1. Construir la sección 4 (taxonomía)
+2. Luego construir las demás secciones a partir de esa base
 
-Razones:
-- Representa el núcleo de la gobernanza de datos
-- Define el enfoque conceptual del paper
-- Establece el estándar de redacción para las demás dimensiones
+Esto es consistente con el paper de referencia: primero define la taxonomía y luego organiza todo el documento alrededor de ella.
 
-#### Objetivo del paso 1
+## Paso 1 — Sección 4.1 (Aportes estratégicos)
 
-Construir completamente la subsección:
+Este es el punto de inicio.
 
-4.1 Aportes estratégicos
+Si esta sección queda bien, el resto del paper será consistente.
 
-Incluyendo:
+Si esta sección queda débil, todo el paper se debilita.
 
-- Definición de la dimensión
-- Relación con la gobernanza de datos (directa)
-- Tipo de problemas que aborda
-- Valor organizacional que genera
-- Mecanismos mediante los cuales genera valor
-- Evidencia en la literatura (citas académicas reales)
+### Qué debo construir en 4.1
 
-#### Nota importante
+Debo incluir obligatoriamente:
 
-No iniciar por:
+- Definición clara de los aportes estratégicos
+- Explicación de por qué pertenecen a la gobernanza de datos
+- Identificación de los problemas que resuelven
+- Explicación explícita del valor organizacional que generan
+- Descripción de cómo generan ese valor
+- Soporte con citas académicas reales
+
+### Nota importante
+
+Debo ser muy preciso aquí:
+
+- Esto sí es gobernanza directa
+- Aquí defino el tono del paper
+- Aquí establezco la conexión con valor organizacional
+
+## Error que debo evitar
+
+No debo empezar por:
 
 - Introducción
 - Resumen
 - Metodología
 
-Estas secciones deben construirse posteriormente, una vez definida la taxonomía.
+Estas secciones dependen de la taxonomía, no al revés.
 
-## Paso 2 — Desarrollo completo de la taxonomía
+## Paso 2 — Completar todas las dimensiones
 
-Una vez finalizada la sección 4.1, se procede con las demás dimensiones:
+Una vez que termine 4.1, debo replicar la misma estructura en:
 
 - 4.2 Aportes operacionales
 - 4.3 Aportes técnicos
@@ -64,96 +72,98 @@ Una vez finalizada la sección 4.1, se procede con las demás dimensiones:
 - 4.5 Aportes analíticos e innovación
 - 4.6 Cultura y adopción
 
-Cada una debe seguir la misma estructura que 4.1 para mantener consistencia.
+Debo asegurar consistencia entre todas las secciones.
 
-## Paso 3 — Construcción de la figura de la taxonomía
+Cada dimensión debe responder las mismas preguntas.
 
-El paper requiere una representación visual del modelo conceptual.
+## Paso 3 — Figura de la taxonomía
 
-Características esperadas:
+El paper necesita una representación visual clara.
 
-- Gobernanza de datos en el centro
-- Dimensiones de la taxonomía alrededor
-- Generación de valor organizacional como resultado o salida
+Debo construir un modelo donde:
 
-La figura debe sintetizar la relación entre gobernanza, dimensiones y valor.
+- La gobernanza de datos esté en el centro
+- Las dimensiones estén alrededor
+- El valor organizacional sea el resultado
 
-## Paso 4 — Construcción de tabla de consulta
+Esta figura es clave para reviewers.
 
-Se recomienda incluir una tabla que permita la consulta rápida de la taxonomía.
+## Paso 4 — Tabla de consulta
+
+Debo incluir una tabla que resuma la taxonomía.
 
 Estructura sugerida:
 
 | Dimensión | Qué regula | Qué habilita | Valor organizacional |
-|----------|-----------|-------------|----------------------|
 
-Esta tabla incrementa la utilidad del paper como herramienta de referencia.
+Esto convierte el paper en una herramienta útil, no solo teórica.
 
-## Paso 5 — Desarrollo de la metodología
+## Paso 5 — Metodología
 
-Una vez definida la taxonomía, se documenta el proceso seguido.
+Aquí debo explicar cómo llegué a la taxonomía.
 
-Debe incluir:
+Debo incluir:
 
-- Fuentes de información (bases de datos)
+- Bases de datos utilizadas
 - Estrategia de búsqueda
 - Criterios de inclusión y exclusión
-- Proceso de selección de artículos
-- Método de clasificación de los aportes
+- Proceso de selección
+- Método de clasificación
 
-La metodología debe justificar la construcción de la taxonomía.
+La metodología debe justificar la taxonomía.
 
-## Paso 6 — Redacción de la introducción
+## Paso 6 — Introducción
 
-La introducción se redacta cuando el contenido ya está definido.
+La introducción la escribo después.
 
 Debe incluir:
 
 - Contexto (importancia de los datos)
 - Problema (fragmentación conceptual)
-- Gap (ausencia de taxonomía orientada a valor)
+- Gap (no hay taxonomía orientada a valor)
 - Objetivo del estudio
-- Contribución del paper
+- Contribución
 
-## Paso 7 — Desarrollo de la discusión
+No debo escribirla antes.
 
-Sección crítica para elevar el nivel del paper.
+## Paso 7 — Discusión
 
-Debe abordar:
+Aquí debo ser crítico.
 
-- Principales hallazgos
-- Comparación con literatura existente
-- Vacíos identificados
-- Problemas no resueltos
-- Limitaciones del enfoque actual
+Debo responder:
 
-Aquí se posiciona el aporte del estudio.
+- Qué falta en la literatura
+- Qué está mal planteado
+- Qué no se ha integrado
+
+Esta sección es clave para subir el nivel del paper.
 
 ## Paso 8 — Conclusiones
 
-Debe incluir:
+Debo cerrar con:
 
-- Síntesis del trabajo
-- Contribución principal
-- Implicaciones
-- Líneas futuras de investigación
+- Síntesis clara
+- Aporte principal
+- Limitaciones
+- Trabajo futuro
 
-## Resumen del orden de trabajo
+## Resumen del flujo de trabajo
 
-1. Sección 4.1 (aportes estratégicos)
-2. Secciones 4.2 a 4.6
-3. Figura de la taxonomía
-4. Tabla de consulta
+Debo seguir este orden:
+
+1. 4.1 Aportes estratégicos
+2. 4.2 a 4.6
+3. Figura
+4. Tabla
 5. Metodología
 6. Introducción
 7. Discusión
 8. Conclusiones
 
-## Próximo paso
+## Próximo paso inmediato
 
-Desarrollar la sección 4.1 (Aportes estratégicos) con:
+Debo iniciar con la sección 4.1.
 
-- Redacción académica formal
-- Integración de citas científicas (Scopus, IEEE, Springer)
-- Enfoque explícito en generación de valor organizacional
-- Claridad conceptual en relación con gobernanza de datos
+No avanzar a otra sección hasta que 4.1 esté completa, sólida y con citas académicas reales.
+
+Esta sección define todo el paper.
